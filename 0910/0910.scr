@@ -1,0 +1,31 @@
+Script started on 2019-09-10 09:40:56+0900
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/0910[01;32mparallels@parallels-Parallels-Virtual-Platform[00m:[01;34m~/0910[00m$ ll
+total 8
+drwxrwxr-x  2 parallels parallels 4096 Sep 10 09:40 [0m[01;34m.[0m/
+drwxr-xr-x 20 parallels parallels 4096 Sep 10 09:33 [01;34m..[0m/
+-rw-rw-r--  1 parallels parallels    0 Sep 10 09:40 0910.scr
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/0910[01;32mparallels@parallels-Parallels-Virtual-Platform[00m:[01;34m~/0910[00m$ sc[K[Kㅣㅣ[K[Kll
+\total 8
+drwxrwxr-x  2 parallels parallels 4096 Sep 10 09:40 [0m[01;34m.[0m/
+drwxr-xr-x 20 parallels parallels 4096 Sep 10 09:33 [01;34m..[0m/
+-rw-rw-r--  1 parallels parallels    0 Sep 10 09:40 0910.scr
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/0910[01;32mparallels@parallels-Parallels-Virtual-Platform[00m:[01;34m~/0910[00m$ \[Kls
+0910.scr
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/0910[01;32mparallels@parallels-Parallels-Virtual-Platform[00m:[01;34m~/0910[00m$ ip
+Usage: ip [ OPTIONS ] OBJECT { COMMAND | help }
+       ip [ -force ] -batch filename
+where  OBJECT := { link | address | addrlabel | route | rule | neigh | ntable |
+                   tunnel | tuntap | maddress | mroute | mrule | monitor | xfrm |
+                   netns | l2tp | fou | macsec | tcp_metrics | token | netconf | ila |
+                   vrf | sr }
+       OPTIONS := { -V[ersion] | -s[tatistics] | -d[etails] | -r[esolve] |
+                    -h[uman-readable] | -iec |
+                    -f[amily] { inet | inet6 | ipx | dnet | mpls | bridge | link } |
+                    -4 | -6 | -I | -D | -B | -0 |
+                    -l[oops] { maximum-addr-flush-attempts } | -br[ief] |
+                    -o[neline] | -t[imestamp] | -ts[hort] | -b[atch] [filename] |
+                    -rc[vbuf] [size] | -n[etns] name | -a[ll] | -c[olor]}
+]0;parallels@parallels-Parallels-Virtual-Platform: ~/0910[01;32mparallels@parallels-Parallels-Virtual-Platform[00m:[01;34m~/0910[00m$ ec[Kxit
+exit
+
+Script done on 2019-09-10 09:44:12+0900
